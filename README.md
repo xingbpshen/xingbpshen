@@ -8,4 +8,4 @@ Mila - Quebec AI Institute
 **My current research status:**  
 Learning representations in stochastic processes  
 Diffusion generative models for MRI analysis  
-Tutorial on [Langevin Dynamics and Noise Conditional Score Networks](https://docs.google.com/presentation/d/1pUA8ioQYGd-fFiRmwPQ43hqx-nimJH_k/edit?usp=share_link&ouid=100901179751058198976&rtpof=true&sd=true)
+Welcome to read my latest tutorial on [Langevin Dynamics and Noise Conditional Score Networks](https://docs.google.com/presentation/d/1pUA8ioQYGd-fFiRmwPQ43hqx-nimJH_k/edit?usp=share_link&ouid=100901179751058198976&rtpof=true&sd=true)

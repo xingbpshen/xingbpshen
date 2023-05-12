@@ -5,7 +5,7 @@ Intern at [Probabilistic Vision Group](https://www.cim.mcgill.ca/~pvg/)
 Centre for Intelligent Machines, McGill University  
 Mila - Quebec AI Institute
 
-**My current research status:**  
+**My current research topics:**  
 - Learning representations in denoising score matching  
 - Diffusion generative models for MRI analysis  
 - Welcome to my latest tutorial on [Langevin Dynamics and Noise Conditional Score Networks](https://docs.google.com/presentation/d/1pUA8ioQYGd-fFiRmwPQ43hqx-nimJH_k/edit?usp=share_link&ouid=100901179751058198976&rtpof=true&sd=true)

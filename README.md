@@ -12,3 +12,4 @@ Mila - Quebec AI Institute
 
 **Contact me:**  
 - Main email address: xingshen@cim.mcgill.ca
+- Secondary email address: xing.shen@mila.quebec

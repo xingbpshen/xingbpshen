@@ -1,2 +1,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioShen&show_icons=true)
-<img src=McGillFacultyOfEngineering.png  width="38%" height="38%">
+
+My current status:
+
+Intern at [Probabilistic Vision Group](https://www.cim.mcgill.ca/~pvg/)
+
+Centre for Intelligent Machines, McGill University
+
+Mila - Quebec AI Institute
